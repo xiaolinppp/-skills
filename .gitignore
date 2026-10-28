@@ -1,0 +1,12 @@
+# 本机文件和临时输出
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+
+# 本地凭据与个人学习数据
+.env
+.env.*
+学习进度.md
+学习记录.md
